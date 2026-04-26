@@ -21,7 +21,7 @@
 
 #### 1. アカウント登録
 
-[基盤地図情報ダウンロードサービス](https://fgd.gsi.go.jp/download/menu.jsp) にアクセスし、「利用者登録」から無料登録します。
+[基盤地図情報ダウンロードサービス](https://service.gsi.go.jp/kiban/) にアクセスし、「利用者登録」から無料登録します。
 
 #### 2. ダウンロード
 
@@ -132,6 +132,6 @@ SUGO周辺だけに絞ります。
 
 ## 参考情報
 
-- [国土地理院 基盤地図情報](https://fgd.gsi.go.jp/download/menu.jsp)
+- [国土地理院 基盤地図情報](https://service.gsi.go.jp/kiban/)
 - [ファブラボみなとみらい](https://www.kanagawa-u.ac.jp/cooperation/project/fablab/)
 - [カインズ レーザー加工機予約](https://reserve.cainz.com/space/a140o000002cbttAAA)
